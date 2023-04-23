@@ -118,6 +118,14 @@ $arComponentParameters = array(
 			"REFRESH" => "Y",
 		),
 
+		"CANONICAL" => Array(
+			"PARENT" => "BASE",
+			"NAME" => GetMessage("CANONICAL"),
+			"TYPE" => "STRING",
+			"DEFAULT" => "",
+		),
+
+
 		"AJAX_MODE" => array(),
 		"IBLOCK_TYPE" => array(
 			"PARENT" => "BASE",

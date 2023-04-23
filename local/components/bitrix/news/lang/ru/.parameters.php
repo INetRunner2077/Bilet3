@@ -1,4 +1,5 @@
 <?
+$MESS["CANONICAL"] = 'ID информационного блока для rel=canonical';
 $MESS['SPECIALDATE'] = 'Установить свойство страницы specialdate';
 $MESS["BN_P_IBLOCK_TYPE"] = "Тип инфоблока";
 $MESS["BN_P_IBLOCK"] = "Инфоблок";
