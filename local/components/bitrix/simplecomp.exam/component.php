@@ -84,9 +84,6 @@ if($this->StartResultCache(false, $USER->GetGroups())) {
 
 
 
-else {
-    $this->AbortResultCache();
-}
 $APPLICATION->SetTitle(GetMessage('COUNTS'). $arResult['COUNT']);
 
 
